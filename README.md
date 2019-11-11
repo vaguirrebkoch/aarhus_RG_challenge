@@ -1,2 +1,2 @@
-# aarhus_RG_challenge
-The Aarhus Red Giants Challenge
+# The Aarhus Red Giants Challenge
+
