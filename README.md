@@ -10,5 +10,5 @@ All science cases calculated as part of this challenge are described in Science_
 
 Papers describing the calculations and main results of the challenge are given below. Please remember to cite them when using our tracks, models, or frequencies
 
-* Paper I: Silva Aguirre et al. 2020
+* [Paper I](https://ui.adsabs.harvard.edu/abs/2019arXiv191204909S/abstract) Silva Aguirre et al. 2020
 * Paper II: Christensen-Dalsgaard et al. 2020
